@@ -37,7 +37,7 @@ The full guide on how to use the Canvas in a conversation is TODO and hopefully 
 Until now, you can refer to the (German) guide of conplement AG, where the first version of the Employee Canvas was developed.
 
 # Contents of this project
-**EmployeeCanvas-OpenSourceShare.rtb**: A backup of the Canvas in DE and EN that can be imported in Miro
+**EmployeeCanvas-OpenSourceShare.rtb**: A backup of the Canvas in DE and EN that can be imported in Miro. 
 <a id="raw-url" href="https://raw.githubusercontent.com/kosmonautica/employeecanvas/main/EmployeeCanvas-OpenSourceShare.rtb">Download FILE</a>
 
 # Video of Keynote
