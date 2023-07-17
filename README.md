@@ -46,6 +46,6 @@ The video (in German) is probably a good starting point for exploring the Employ
 <a href="https://youtu.be/pdGJI9Q6JSw">The Keynote on YouTube</a>
 
 # Copyright
-Creative Commons 2.0 BY SA by Paessler AG
-Based on "Mitarbeiter-Canvas" by conplement AG and "Business Model Canvas" by Strategyzer AG
-Employee Canvas was originally developed by Udo Wiegärtner and Doris Dietz
+Creative Commons 2.0 BY SA by Paessler AG. 
+Based on "Mitarbeiter-Canvas" by conplement AG and "Business Model Canvas" by Strategyzer AG. 
+Employee Canvas was originally developed by Udo Wiegärtner and Doris Dietz. 
