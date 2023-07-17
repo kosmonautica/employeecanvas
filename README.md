@@ -37,7 +37,12 @@ The full guide on how to use the Canvas in a conversation is TODO and hopefully 
 Until now, you can refer to the (German) guide of conplement AG, where the first version of the Employee Canvas was developed.
 
 # Contents of this project
-- EmployeeCanvas-OpenSourceShare.rtb: A backup of the Canvas in DE and EN that can be imported in Miro 
+- EmployeeCanvas-OpenSourceShare.rtb: A backup of the Canvas in DE and EN that can be imported in Miro
+
+# Video of Keynote
+Doris and Udo shared the Employee Canvas as Keynote at the conference Manage Agile in Berlin in 2018.
+The video (in German) is probably a good starting point for exploring the Employee Canvas.
+<a href="https://youtu.be/pdGJI9Q6JSw">The Keynote on YouTubey</a>
 
 # Copyright
 Creative Commons 2.0 BY SA by Paessler AG
