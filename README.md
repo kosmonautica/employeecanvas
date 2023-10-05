@@ -1,6 +1,8 @@
 # Employee Canvas (Mitarbeiter Canvas)
 
 # What is the Employee Canvas?
+The Employee Canvas is a visulization that is used to structure longer conversations between an employee and his/her leader.
+It is used e.g. in annual performance appraisals ("Mitarbeiterjahresgesprächen").
 The Canvas can be used digitally on Miro, printed in DIN A0 or just drawn on a big brown paper.
 
 # What is the purpose of an employee canvas?
