@@ -1,7 +1,7 @@
 # Employee Canvas (Mitarbeiter Canvas)
 
 # What is the Employee Canvas?
-The Employee Canvas is a visulization that is used to structure longer conversations between an employee and his/her leader.
+The Employee Canvas is a visualization that is used to structure longer conversations between an employee and his/her leader.
 It is used e.g. in annual performance appraisals ("Mitarbeiterjahresgesprächen").
 The Canvas can be used digitally on Miro, printed in DIN A0 or just drawn on a big brown paper.
 
@@ -11,12 +11,12 @@ The employee canvas should be shared between both participants:
 - It gives an overall view of the position of the employee in the company
 - It enables a face to face conversation which:
   - does not focus on the evaluation of the employee by the manager
-  - is more appreciative, since it focus on the people, their talents and their contribution
+  - is more appreciative, since it focuses on the people, their talents and their contribution
 
 # How does the Employee Canvas work?
-- The basic idea is that, you can discuss better about your own job not only by looking at your actual job, but also considering what your role, in customer projects, is, for and how the company can support that internally. So you look at the employee's role in holistically.
+- The basic idea is that, you can discuss better about your own job not only by looking at your actual job, but also considering what your role, in customer projects, is, for and how the company can support that internally. So you look at the employee's role holistically.
 - To visualize this holistic view, both participants in the conversation use a large poster as a kind of "map" or "workspace" as a guide. This poster is called a "Canvas."
-- The canvas is filled with Post-It by both conversation participants in real time during the conversation. In this way, both participants have the holistic view and can sharpen the individual aspects as desired during the conversation.
+- The canvas is filled with Post-Its by both conversation participants in real time during the conversation. In this way, both participants have the holistic view and can sharpen the individual aspects as desired during the conversation.
 - The idea was inspired by the "Business Model Canvas" from Strategyzer AG, which can be used to visualize business models holistically. We have simply adapted this concept.
 
 <img src="Employee CanvasOpenSourceShare-BasePrinciple.jpg" width="400">
@@ -34,7 +34,7 @@ The Canvas has four areas:
 
 ----
 
-# How to do a employee review using the Employee Canvas?
+# How to do an employee review using the Employee Canvas?
 The full guide on how to use the Canvas in a conversation is TODO and hopefully available here, soon.
 Until now, you can refer to the (German) guide of conplement AG, where the first version of the Employee Canvas was developed.
 
